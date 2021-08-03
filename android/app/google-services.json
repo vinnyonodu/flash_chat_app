@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481173919548",
+    "project_id": "flash-chat-73b2c",
+    "storage_bucket": "flash-chat-73b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481173919548:android:5573e0471711901485b039",
+        "android_client_info": {
+          "package_name": "co.vinnyo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481173919548-1mqjul6crrehum8boa1h5arf98t36iga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTIbGxX3CcLxHoAXYLHoi62_8NIevrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481173919548-1mqjul6crrehum8boa1h5arf98t36iga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
